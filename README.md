@@ -1,6 +1,6 @@
 # W-13560767 Signature - 44738591 - F. Hoffmann-La Roche AG - Rexis - Error While accessing Flexipage - 731800491-83626 (2037534035)
 
-Customer observed that a particular user could not load a reocrd, they got a flexipage error panel, and no regions.
+Customer observed that a particular user could not load a record, they got a flexipage error panel, and no regions.
 
 ## Repro
 
