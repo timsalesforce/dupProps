@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "testGitCoreHub",
+  "namespace": "",
+  "sfdcLoginUrl": "https://dh06142.my.salesforce-com.tdionne-w-13560767-main.w.crm.dev:6101",
+  "sourceApiVersion": "57.0"
+}
